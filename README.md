@@ -40,6 +40,7 @@ Donations in any sum are very appreciated.
 - [echoenzo](https://github.com/echoenzo)
 - [Ailuridaes](https://github.com/Ailuridaes)
 - [ClairelyClaire](https://github.com/ClairelyClaire)
+- [karstendick](https://github.com/karstendick)
 
 # Integration
 POST `/api/import`     
